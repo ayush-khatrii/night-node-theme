@@ -29,7 +29,7 @@ const Hero = () => {
           whileInView={{ opacity: 1 }}
           transition={{ duration: 1, delay: 0.3, ease: 'easeInOut' }}
         >
-          Inspired by Node.js, dark hues and vibrant accents to keep your coding smooth and easy on the eyes.        </motion.p>
+          A VsCode theme inspired by Node.js, dark hues and vibrant accents to keep your coding smooth and easy on the eyes.        </motion.p>
         <div className='flex mt-6 lg:text-xl justify-center items-center text-center flex-col md:flex-row w-full gap-4'>
           <a
             href="https://marketplace.visualstudio.com/items?itemName=ayushkhatri.nightnode"
