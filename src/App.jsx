@@ -44,7 +44,7 @@ export default function App() {
           />
 
         </motion.div>
-        <TextHoverEffect text={"Nigh Node"} />
+        <TextHoverEffect text={"Night Node"} />
       </div>
 
       <motion.div
